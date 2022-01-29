@@ -1,0 +1,11 @@
+{
+    "name": "dimag/my_plugin",
+    "description": "My first plugin dev",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload" : {
+        "psr-4" : {"Inc\\" : "./includes"}
+    }
+}
